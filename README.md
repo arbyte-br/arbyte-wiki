@@ -4,11 +4,11 @@ Repositório criado para centralizar documentações de todo tipo para nos ajuda
 
 > Como vai funcionar?
 
-Bora lá, nossa wiki será dividia nos seguintes diretórios:
+Bora lá, nossa wiki será dividida nos seguintes diretórios:
 
 ### [**Dúvidas Tech**](./geral/)
 
-Diretório com foco em duvidas diárias sobre nossa profissão, por exemplo:
+Diretório com foco em dúvidas diárias sobre nossa profissão, por exemplo:
   - [O que é front-end](./geral/front-end.md)
   - [O que é back-end](./geral/back-end.md)
   - [O que é git](./geral/git.md)
