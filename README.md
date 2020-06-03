@@ -6,7 +6,7 @@ Repositório criado para centralizar documentações de todo tipo para nos ajuda
 
 Bora lá, nossa wiki será dividia nos seguintes diretórios:
 
-### [**Dúvidas Tech**](./duvidas-tech/)
+### [**Dúvidas Tech**](./geral/)
 
 Diretório com foco em duvidas diárias sobre nossa profissão, por exemplo:
   - [O que é front-end](./geral/front-end.md)
