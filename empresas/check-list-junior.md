@@ -2,9 +2,9 @@
 
 ### Já se perguntou o que as empresas pedem quando você esta começando na carreira de dev? Se sim, vamos tentar entender junto esse mercado :D
 
-> A primeira coisa que você precisa entender é, não precisa se desesperar em ser especialista de cara em todas as ferramentas do mundo, você esta começando agora, então vamos com calma.
+A primeira coisa que você precisa entender é, não precisa se desesperar em ser especialista de cara em todas as ferramentas do mundo, você esta começando agora, então vamos com calma.
 
-Aqui vai algumas coisas que é bom você ter conhecimento afiado quando começa a procurar emprego na área.
+> Aqui vai algumas coisas que é bom você ter conhecimento afiado quando começa a procurar emprego na área.
 
 * git/ github
 * lógica de programação
