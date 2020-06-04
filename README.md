@@ -4,7 +4,7 @@ Repositório criado para centralizar documentações de todo tipo para nos ajuda
 
 > Como vai funcionar?
 
-Bora lá, nossa wiki será dividia nos seguintes diretórios:
+Bora lá, nossa wiki será dividida nos seguintes diretórios:
 
 ### [**Dúvidas Tech**](./geral/)
 
