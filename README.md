@@ -8,7 +8,8 @@ Bora lá, nossa wiki será dividida nos seguintes diretórios:
 
 ### [**Dúvidas Tech**](./geral/)
 
-Diretório com foco em dúvidas diárias sobre nossa profissão, por exemplo:
+Diretório com foco em duvidas diárias sobre nossa profissão, por exemplo:
+  - [Glossário](./geral/glossario.md)
   - [O que é front-end](./geral/front-end.md)
   - [O que é back-end](./geral/back-end.md)
   - [O que é git](./geral/git.md)
@@ -23,3 +24,6 @@ Escreveu algum artigo legal, quer compartilhar sobre algum software, alguma desc
 ### [**O que as empresas pedem?**](./empresas/)
   - [Check-list do junior](./empresas/check-list-junior.md)
   
+  > Escrevemos aqui em markdown, que é uma linguagem de marcação de texto utilizada em diversas empresas para facilitar na escrita de documentações.
+
+  Vamos juntos agregar e contribuir com nosso repositório.
