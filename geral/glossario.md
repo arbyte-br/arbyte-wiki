@@ -1,6 +1,7 @@
 # Glossário 
 
 * [Tech Lead](./tech-lead.md) - Esse é o nome que damos para o líder tecnico da equipe, normalmente esse profissional tem um vasto conhecimento sobre a tecnologia e sobre a regra de negócio da empresa, podendo auxiliar os desenvolvedores nas demandas do dia a dia. 
+* **Setup** - Setup é uma palavra em inglês que significa configuração, utilizamos esse termo em tech quando estamos preparando as configurações iniciais de ambiente da nossa aplicação. 
 * **Framework** - Em resumo, é uma gama de códigos feitos para te auxiliar a desenvolver uma aplicação, assim você economizara uma boa parte de tempo não recriando códigos de setups por exemplo, entre outras coisas. Exemplos de frameworks bastante conhecidos são React, Angular, Vue.js etc.
 * **Back-end** - O back end, é a parte que o cliente não vê de um software, esse pedaço do sistema, é responsável por manter a lógica da aplicação e fazer comunicações com serviços externos e o banco de dados. É nessa camada que é aplicada a regra de negócio da aplicação. Um back-end pode ser construido em (Nodejs, Java, C#, PHP).
 * **Front-end** - O front, é a parte visual da aplicação, onde o nosso cliente vai interagir com o sistema. Resumindo, são as telas que o usuário vê. O front-end é basicamente constituido em 3 coisas, HTML que seria o esqueleto da aplicação, CSS seria a pele, o estilo e o javascript que é quem faz o corpo funcionar.
