@@ -26,4 +26,4 @@ Escreveu algum artigo legal, quer compartilhar sobre algum software, alguma desc
   
   > Escrevemos aqui em markdown, que é uma linguagem de marcação de texto utilizada em diversas empresas para facilitar na escrita de documentações.
 
-  Vamos juntos agregar e contribuir com nosso repositório.
+  Vamos juntos agregar e contribuir com nosso projeto.

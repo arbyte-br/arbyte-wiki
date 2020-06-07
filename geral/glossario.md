@@ -1,5 +1,8 @@
 # Glossário 
 
+* [Git](./git.md) - Git é um sistema de controle de versão distribuído e um sistema de gerenciamento de código fonte, com ênfase em velocidade.
+* [Github](./github) - O GitHub é um sistema de gerenciamento de projetos e versões de códigos assim como uma plataforma de rede social criado para desenvolvedores. 
+* [Repositório](./repositorio.md) - Repositório é a pasta onde ficará nossos códigos, dentro dessas pastas podem existir diversas sub-pastas, tambem são diretórios. Você pode utilizar qualquer gerenciador para hospedar seu repositório, aqui utiliza-mos o [github](./github.md).
 * [Tech Lead](./tech-lead.md) - Esse é o nome que damos para o líder tecnico da equipe, normalmente esse profissional tem um vasto conhecimento sobre a tecnologia e sobre a regra de negócio da empresa, podendo auxiliar os desenvolvedores nas demandas do dia a dia. 
 * **Setup** - Setup é uma palavra em inglês que significa configuração, utilizamos esse termo em tech quando estamos preparando as configurações iniciais de ambiente da nossa aplicação. 
 * **Framework** - Em resumo, é uma gama de códigos feitos para te auxiliar a desenvolver uma aplicação, assim você economizara uma boa parte de tempo não recriando códigos de setups por exemplo, entre outras coisas. Exemplos de frameworks bastante conhecidos são React, Angular, Vue.js etc.
