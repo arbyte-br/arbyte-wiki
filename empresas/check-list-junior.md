@@ -13,7 +13,7 @@ vamos começar com algumas perguntas, anote as respostas para saber se já tem o
     * [ ] - Sabe configurar um .gitignore e como funciona?
     * [ ] - Entende bem sobre branchs?
     * [ ] - Sabe o que é conflito de merge e como resolve-los sem perder código de outros desenvolvedores?
-* **SOBRE [github](./../geral/github.md)**:
+* **SOBRE [GITHUB](./../geral/github.md)**:
     * [ ] - Sabe navegar no github?
     * [ ] - Sabe configurar uma chave SSH em sua maquina e inserir no github?
     * [ ] - Sabe abrir um Pull Request?
