@@ -10,7 +10,7 @@ vamos começar com algumas perguntas, anote as respostas para saber se já tem o
     * [ ] - Consegue usar o git por linha de comando sem dificuldades?
     * [ ] - Sabe iniciar um projeto localmente?
     * [ ] - Consegue mandar suas mudanças locais para o remoto sem problemas?
-    * [ ] - Sabe configurar um .gitignore e como funciona?
+    * [ ] - Sabe para que serve o .gitignore e como configura-lo?
     * [ ] - Entende bem sobre branchs?
     * [ ] - Sabe o que é conflito de merge e como resolve-los sem perder código de outros desenvolvedores?
 * **SOBRE [GITHUB](./../geral/github.md)**:
@@ -33,7 +33,7 @@ vamos começar com algumas perguntas, anote as respostas para saber se já tem o
         * [ ] - Sabe construir uma API?
         * [ ] - Sabe conectar sua aplicação ao banco de dados?
         * [ ] - Sabe o que é endpoint?
-        * [ ] - Sabe criar uma autenticação simples em JWT? 
+        * [ ] - Sabe criar uma autenticação simples com JWT? 
         * [ ] - Sabe fazer uma busca no banco de dados paginada?
             * **NODEJS**:
                 * [ ] - Entende sobre Programação assincrona/ Event Loop?
@@ -50,11 +50,11 @@ vamos começar com algumas perguntas, anote as respostas para saber se já tem o
                 * [ ] - Sabe o que é um componente?
                 * [ ] - Entende sobre estados?
                 * [ ] - Domina a navegação entre páginas?
-                * [ ] - Sabe utilizar o reduce e para que serve?
+                * [ ] - Sabe para que serve o reduce e como utiliza-lo?
                 * [ ] - Sabe publicar um site em React no Github Pages?
 * **SOBRE BANCO DE DADOS**:
     * [ ] - Sabe criar criar um Database?
-    * [ ] - Sabe o que é querys?
+    * [ ] - Sabe o que é query?
     * [ ] - Consegue fazer uma query de select sem problemas?
     * [ ] - Sabe o que os comandos BEGIN; COMMIT; ROLLBACK; fazem?
     * [ ] - Consegue fazer um alter table em uma tabela?
@@ -79,9 +79,9 @@ vamos começar com algumas perguntas, anote as respostas para saber se já tem o
     * [ ] - Sabe trabalhar em time?
     * [ ] - Tem comprometimento com o time (Entrega as demandas no dia combinado, não atrasa nas cerimonias, respeita a opnião dos outros, etc)?
 
-Conta pra gente, quantas dessas 62 perguntas você marcou?
+Conta pra gente, quantas dessas perguntas você marcou?
 
-A ideia é um dia marcarmos todas essas perguntas hein, mas não se preocupe, se você sabe no minimo 80% dessas questões, você já está mais do que pronto para uma vaga de programador, se você não sabe tanto ainda, não se preocupe, foque em cada ponto que não aprendeu e estude-o.
+A ideia é um dia marcarmos todas hein, mas não se preocupe, se você sabe no minimo 80% dessas questões, você já está mais do que pronto para uma vaga de programador, se você não sabe tanto ainda, não se preocupe, foque em cada ponto que não aprendeu e estude-o.
 
 Uma dica, estude um ponto por vez, só passe para o próximo assim que dominar o anterior, tentar aprender tudo de uma vez é a pior estratégia do mundo. Seja paciente, sua vaga estará te esperando ;)
 
