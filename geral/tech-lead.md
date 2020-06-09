@@ -1,4 +1,4 @@
-#TECH LEAD
+# TECH LEAD
 
 Ser um tech lead é uma tarefa muito dificil e importante em uma empresa que tem um produto de software.
 
