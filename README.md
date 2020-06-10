@@ -1,6 +1,6 @@
 # ARBYTE WIKI
 
-Repositório criado para centralizar documentações de todo tipo para nos ajudar.
+Repositório criado para centralizar documentações de todo tipo para nos ajudar!
 
 > Como vai funcionar?
 
