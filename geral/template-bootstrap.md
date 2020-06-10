@@ -27,7 +27,18 @@ Vamos estudando linha por linha do código até não termos duvida do que o ele 
 No final, teremos algo assim:
 ![](../imagens/w3schools/index.png)
 
-Agora só commitar seu código e contar pra gente ;)
+Commite seu código para salvar todo trabalho ;)
+
+
+# Entendi o que é Bootstrap, e agora?
+
+Agora que sabemos como funciona uma implementação simples do bootstrap, vamos aprofundar mais nessa lib e entender a fundo esse framework.
+
+Se você [clicar aqui](https://getbootstrap.com/docs/3.4/getting-started/), será redirecionado para a documentação oficial do Bootstrap, explicando passo a passo tudo sobre a lib.
+
+Entender como funciona a documentação de uma biblioteca é muito importante, sempre que implementarmos alguma lib nova em nosso projeto, vamos caçar a documentação dela e tentar entender a fundo o que aqueles códigos fazem. Assim saberemos as melhores práticas para se trabalhar com esse framework.
+
+Criem templates com Bootstrap, entendam a lib e, fica o desafio para implementar [este  template](https://richardpassos01.github.io/aula-template-bootstrap/)
 
 # Reaproveitando Snippets de Código
 
