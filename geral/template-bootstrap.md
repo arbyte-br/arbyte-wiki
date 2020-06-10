@@ -29,17 +29,6 @@ No final, teremos algo assim:
 
 Commite seu código para salvar todo trabalho ;)
 
-
-# Entendi o que é Bootstrap, e agora?
-
-Agora que sabemos como funciona uma implementação simples do bootstrap, vamos aprofundar mais nessa lib e entender a fundo esse framework.
-
-Se você [clicar aqui](https://getbootstrap.com/docs/3.4/getting-started/), será redirecionado para a documentação oficial do Bootstrap, explicando passo a passo tudo sobre a lib.
-
-Entender como funciona a documentação de uma biblioteca é muito importante, sempre que implementarmos alguma lib nova em nosso projeto, vamos caçar a documentação dela e tentar entender a fundo o que aqueles códigos fazem. Assim saberemos as melhores práticas para se trabalhar com esse framework.
-
-Criem templates com Bootstrap, entendam a lib e, fica o desafio para implementar [este  template](https://richardpassos01.github.io/aula-template-bootstrap/)
-
 # Reaproveitando Snippets de Código
 
 Aqui gostaríamos de sugerir alguns snippets (trechos) de código que adicionarão muitas funcionalidades na sua página da Web. Todos os exemplos são baseados no site [Startbootstrap.com](https://startbootstrap.com/snippets/)
