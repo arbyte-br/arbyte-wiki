@@ -36,29 +36,30 @@ Observe que estou dando um push escrevendo para onde quero enviar as mudanças, 
 
 Pronto, vimos por cima como funciona uma branch, agora vamos fazer um Pull Request para master?
 
-1 - Abra seu Github, vá até seu repositório e selecione `PULL REQUESTS`. Clique no botão verde `NEW PULL REQUEST`.
-![](./../imagens/github/repository-pull.png)..
+*  Abra seu Github, vá até seu repositório e selecione `PULL REQUESTS`. Clique no botão verde `NEW PULL REQUEST`.
+![](./../imagens/github/repository-pull.png)
 
-
-2 - Nesta tela, na seção `compare` selecione a `nova-branch`, exatamente igual a imagem abaixo:
+* Nesta tela, na seção `compare` selecione a `nova-branch`, exatamente igual a imagem abaixo:
 ![](./../imagens/github/pull-request-open.png)
 
-Observe do lado da `nova-branch` uma seta apontando para onde estamos enviando nossas alterações, no caso, para a `master`.
-Também podemos ver a frase `ABLE TO MERGE` nos informando que a branch esta apta para ser mergeada -> merge é uma palavra inglesa que significa `fundir`, ou seja, mergear é o mesmo que fundir suas mudanças com a branch principal.
+    Observe do lado da `nova-branch` uma seta apontando para onde estamos enviando nossas alterações, no caso, para a `master`.
+    Também podemos ver a frase `ABLE TO MERGE` nos informando que a branch esta apta para ser mergeada -> merge é uma palavra inglesa que significa `fundir`, ou seja, mergear é o mesmo que fundir suas mudanças com a branch principal.
 
 
-Em seguida fazemos alguma descrição e clicamos em `CREATE PULL REQUEST`.
+    Em seguida fazemos alguma descrição e clicamos em `CREATE PULL REQUEST`.
 
-Se tudo deu certo, irá aparecer uma mensagem similar a esta:
+* Se tudo deu certo, irá aparecer uma mensagem similar a esta:
 ![](./../imagens/github/pull-request-opened.png)
 
-Se você clicar em `Merge Pull Request`, as mudanças que você fez em sua branch irão automaticamente para a branch `master`.
+    Se você clicar em `Merge Pull Request`, as mudanças que você fez em sua branch irão automaticamente para a branch `master`.
 
 
-Caso você esteja abrindo seu pull request para um repositório que você não seja o dono, provavelmente irá receber uma mensagem similar a está:
+* Caso você esteja abrindo seu pull request para um repositório que você não seja o dono, provavelmente irá receber uma mensagem similar a está:
 ![](./../imagens/github/blocked-pr.png)
 
-Basta esperar o dono do repositório avaliar seu pull request e mergear.
+    Basta esperar o dono do repositório avaliar seu pull request e mergear.
 
 
-Simples não? Conta pra gente o que achou, abrindo um Pull Request para esse repositório com seu feeback ;)
+Simples não? 
+
+Conta pra gente o que achou, abrindo um Pull Request para esse repositório com seu feeback ;)
