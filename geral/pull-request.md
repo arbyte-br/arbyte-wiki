@@ -36,10 +36,13 @@ Observe que estou dando um push escrevendo para onde quero enviar as mudanças, 
 
 Pronto, vimos por cima como funciona uma branch, agora vamos fazer um Pull Request para master?
 
-*  Abra seu Github, vá até seu repositório e selecione `PULL REQUESTS`. Clique no botão verde `NEW PULL REQUEST`.
+1.  Abra seu Github, vá até seu repositório e selecione `PULL REQUESTS`. Clique no botão verde `NEW PULL REQUEST`.
 ![](./../imagens/github/repository-pull.png)
 
-* Nesta tela, na seção `compare` selecione a `nova-branch`, exatamente igual a imagem abaixo:
+    ···
+
+
+2. Nesta tela, na seção `compare` selecione a `nova-branch`, exatamente igual a imagem abaixo:
 ![](./../imagens/github/pull-request-open.png)
 
     Observe do lado da `nova-branch` uma seta apontando para onde estamos enviando nossas alterações, no caso, para a `master`.
@@ -47,19 +50,25 @@ Pronto, vimos por cima como funciona uma branch, agora vamos fazer um Pull Reque
 
 
     Em seguida fazemos alguma descrição e clicamos em `CREATE PULL REQUEST`.
+    
+    ···
 
-* Se tudo deu certo, irá aparecer uma mensagem similar a esta:
+3. Se tudo deu certo, irá aparecer uma mensagem similar a esta:
 ![](./../imagens/github/pull-request-opened.png)
 
     Se você clicar em `Merge Pull Request`, as mudanças que você fez em sua branch irão automaticamente para a branch `master`.
 
+    ···
 
-* Caso você esteja abrindo seu pull request para um repositório que você não seja o dono, provavelmente irá receber uma mensagem similar a está:
+4. Caso você esteja abrindo seu pull request para um repositório que você não seja o dono, provavelmente irá receber uma mensagem similar a está:
 ![](./../imagens/github/blocked-pr.png)
 
     Basta esperar o dono do repositório avaliar seu pull request e mergear.
 
 
-Simples não? 
+    ···
+
+
+### Simples não? 
 
 Conta pra gente o que achou, abrindo um Pull Request para esse repositório com seu feeback ;)
