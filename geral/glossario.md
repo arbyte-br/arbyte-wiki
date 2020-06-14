@@ -4,7 +4,7 @@
 * [Github](./github) - É um sistema de gerenciamento de projetos e versões de códigos assim como uma plataforma de rede social criado para desenvolvedores. 
 * [Repositório](./repositorio.md) - É a pasta onde ficará nossos códigos, dentro dessas pastas podem existir diversas sub-pastas, tambem são diretórios. Você pode utilizar qualquer gerenciador para hospedar seu repositório, aqui utiliza-mos o [github](./github.md).
 * [Tech Lead](./tech-lead.md) - Esse é o nome que damos para o líder tecnico da equipe, normalmente esse profissional tem um vasto conhecimento sobre a tecnologia e sobre a regra de negócio da empresa, podendo auxiliar os desenvolvedores nas demandas do dia a dia. 
-* [Pull Request](./pull-request.md) - É a solicitação de inserir mudanças de uma branch em outra.
+* [Pull Request](./pull-request.md) - É a solicitação para inserir mudanças de uma branch em outra.
 * [Back-end](./back-end.md) - É a parte que o cliente não vê de um software, esse pedaço do sistema, é responsável por manter a lógica da aplicação e fazer comunicações com serviços externos e o banco de dados. É nessa camada que é aplicada a regra de negócio da aplicação. Um back-end pode ser construido em (Nodejs, Java, C#, PHP).
 * [Front-end](./front-end.md) - É a parte visual da aplicação, onde nosso cliente vai interagir com o sistema. Resumindo, são as telas que o usuário vê. O front-end é basicamente constituido em 3 coisas, HTML que seria o esqueleto da aplicação, CSS seria a pele, o estilo e o javascript é o responsável por dar movimentos ao corpo.
 * **Setup** - É uma palavra em inglês que significa configuração, utilizamos esse termo em tech quando estamos preparando as configurações iniciais de ambiente da nossa aplicação. 

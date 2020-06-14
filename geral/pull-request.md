@@ -25,15 +25,19 @@ Rode o comando `git status` novamente, observe que agora será impresso `On bran
 Estamos em uma branch que foi `estendida` da branch `master`, o que fazermos nessa branch, não impactará nosso galho principal, portanto, podemos fazer todas modificações dentro dela e commitar normalmente.
 
 Vamos testar? Faça qualquer mudança em um arquivo e vamos comita-lo com os comandos:
-* `git add .`
-* `git commit -m "minha mensagem"`
-* `git push origin nova-branch`
-* Observe que estou dando um push escrevendo para onde quero enviar as mudanças, no caso, para a "nova-branch".
+blockquote>
+ > `git add .`
+ >
+ > `git commit -m "minha mensagem"`
+ >
+ > `git push origin nova-branch`
+
+Observe que estou dando um push escrevendo para onde quero enviar as mudanças, no caso, para a "nova-branch".
 
 Pronto, vimos por cima como funciona uma branch, agora vamos fazer um Pull Request para master?
 
 1 - Abra seu Github, vá até seu repositório e selecione `PULL REQUESTS`. Clique no botão verde `NEW PULL REQUEST`.
-![](./../imagens/github/repository-pull.png)
+![](./../imagens/github/repository-pull.png)..
 
 
 2 - Nesta tela, na seção `compare` selecione a `nova-branch`, exatamente igual a imagem abaixo:
@@ -53,6 +57,7 @@ Se você clicar em `Merge Pull Request`, as mudanças que você fez em sua branc
 
 Caso você esteja abrindo seu pull request para um repositório que você não seja o dono, provavelmente irá receber uma mensagem similar a está:
 ![](./../imagens/github/blocked-pr.png)
+
 Basta esperar o dono do repositório avaliar seu pull request e mergear.
 
 
