@@ -17,3 +17,8 @@ Então, é extremamente simples o propósito do `.gitignore`, ele possibilita co
 ## Ok, e como faço para saber se ta funcionando?
 
 Bem simples, se você digitar o comando `git status`, você verá que mesmo que exista esse arquivo/diretório dentro do projeto, o Git vai ignorar ele, se realmente isso acontecer é porque está funcionando.
+
+Para entender mais sobre o `.gitignore`, [clique aqui](https://womakerscode.gitbook.io/desvendando-git-e-github/ciclo-de-vida-basico/o-que-e-o-.gitignore).
+
+
+Achou algo faltando aqui? Abre um PR e ajude a manter essa documentação viva :)
