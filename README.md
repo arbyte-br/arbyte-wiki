@@ -14,6 +14,7 @@ Diretório com foco em duvidas diárias sobre nossa profissão, por exemplo:
   - [O que é back-end](./geral/back-end.md)
   - [O que é git](./geral/git.md)
   - [O que é e como abrir um Pull Request](./geral/pull-request.md)
+  - [O que é o .gitignore e como usar?](./geral/gitignore.md)
 
 ### [**Da gente pra gente**](./variedades/)
 Escreveu algum artigo legal, quer compartilhar sobre algum software, alguma descoberta?  Aqui é o lugar =)
