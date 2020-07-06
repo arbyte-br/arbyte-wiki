@@ -20,7 +20,7 @@ Diretório com foco em duvidas diárias sobre nossa profissão, por exemplo:
 Escreveu algum artigo legal, quer compartilhar sobre algum software, alguma descoberta?  Aqui é o lugar =)
   - [Investimentos](./variedades/investimentos.md)
   - [Objeto condicional](./variedades/objetos-condicionais.md)
-  - [Cheat Sheets - Referência de HTML, CSS, JavaScript, Node.js](./geral/cheatsheets.md)
+  - [Cheat Sheets - Referência de HTML, CSS, JavaScript, Node.js e GitHub](./geral/cheatsheets.md)
  
 
 ### [**O que as empresas pedem?**](./empresas/)
