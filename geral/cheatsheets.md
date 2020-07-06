@@ -6,7 +6,7 @@ Traduzindo literalmente, é "folha de cola", e ela serve exatamente para isso, p
 
 ### Lista de Cheat Sheets:
 - [HTML Cheat Sheet](https://htmlcheatsheet.com/)
-- [CSS Cheat Sheet] (https://htmlcheatsheet.com/css/)
+- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
 - [JavaScript Cheat Sheet](https://htmlcheatsheet.com/js/)
 - [Node.js Cheat Sheet](https://overapi.com/nodejs)
 - [GitHub Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
