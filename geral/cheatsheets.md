@@ -13,6 +13,7 @@ Traduzindo literalmente, é "folha de cola", e ela serve exatamente para isso, p
 - [Postgres Cheat Sheet](https://devhints.io/postgresql-json)
 - [Knex Cheat Sheet](https://devhints.io/knex)
 - [Reactjs Cheat Sheet](https://devhints.io/react)
+- [ES6](https://devhints.io/es6)
 
 #### Informações:
 A lista de **Cheat Sheets** acima possui somente algumas das milhares de Cheat Sheets criadas. Existem muitas, tantas que seria impossível colocar todas aqui.
