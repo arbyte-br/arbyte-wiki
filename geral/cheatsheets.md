@@ -10,6 +10,9 @@ Traduzindo literalmente, é "folha de cola", e ela serve exatamente para isso, p
 - [JavaScript Cheat Sheet](https://htmlcheatsheet.com/js/)
 - [Node.js Cheat Sheet](https://overapi.com/nodejs)
 - [GitHub Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+- [Postgres Cheat Sheet](https://devhints.io/postgresql-json)
+- [Knex Cheat Sheet](https://devhints.io/knex)
+- [Reactjs Cheat Sheet](https://devhints.io/react)
 
 #### Informações:
 A lista de **Cheat Sheets** acima possui somente algumas das milhares de Cheat Sheets criadas. Existem muitas, tantas que seria impossível colocar todas aqui.
